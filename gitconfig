@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ie.castanares@gmail.com
+	name = Ilan Enrique Castanares Gutman
